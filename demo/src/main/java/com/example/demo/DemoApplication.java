@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Welcome from main branch.....");
 		System.out.println("Welcome from main branch.....2nd commit");
+		System.out.println("Welcome from main branch.....3rd commit");
 	}
 
 }
